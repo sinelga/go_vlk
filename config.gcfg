@@ -1,6 +1,6 @@
 [main]
-locale ="en_US"
-themes ="programming"
+locale ="ru_RU"
+themes ="finland"
 
 [dirs]
-rootdir="/home/juno/git/cv/version_desk_react_00"
+rootdir="/home/juno/git/vlk_backbone/version_desk_react_00"
